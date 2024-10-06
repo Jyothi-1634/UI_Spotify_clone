@@ -14,6 +14,6 @@ The footer contains music playback controls and stays fixed at the bottom of the
  Dark Theme Styling:
 The UI features a dark theme, similar to the official Spotify app.
 
-![image alt]()
+![image alt](https://github.com/Jyothi-1634/UI_Spotify_clone/blob/008dffa0b3748cbb53ed30a2c518f5f0fd86c3a2/Screenshot%20(84).png)
 
 
